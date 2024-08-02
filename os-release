@@ -1,0 +1,11 @@
+NAME="Dune OS "
+VERSION="1.0.0"
+ID=dune
+ID_LIKE="ubuntu debian"
+PRETTY_NAME="Dune OS 1.0 "
+VERSION_ID="1.0.0"
+HOME_URL="https://github.com/H3xKatana/DuneOS/"
+SUPPORT_URL="https://github.com/H3xKatana/DuneOS/issues"
+VERSION_CODENAME=Dune-Estin
+UBUNTU_CODENAME=jammy
+
