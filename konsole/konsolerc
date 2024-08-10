@@ -1,0 +1,52 @@
+# .config/konsolerc
+[Desktop Entry]
+DefaultProfile=student.profile
+
+[MainWindow]
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAfsAAAAcAFMAUwBIAE0AYQBuAGEAZwBlAHIARABvAGMAawAAAAAA/////wAAANUBAAADAAADvgAAA4QAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAgAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAAAAAAcAHMAZQBzAHMAaQBvAG4AVABvAG8AbABiAGEAcgEAAADo/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Virtual1 Height 1279x799=750
+Virtual1 Height 1280x720=532
+Virtual1 Height 1280x800=478
+Virtual1 Height 1748x995=933
+Virtual1 Height 1920x1005=933
+Virtual1 Height 1920x1080=662
+Virtual1 Height 1920x1200=1151
+Virtual1 Height 800x600=532
+Virtual1 Height 958x995=933
+Virtual1 Width 1279x799=1279
+Virtual1 Width 1280x720=800
+Virtual1 Width 1280x800=845
+Virtual1 Width 1748x995=1740
+Virtual1 Width 1920x1005=1912
+Virtual1 Width 1920x1080=1272
+Virtual1 Width 1920x1200=1272
+Virtual1 Width 800x600=800
+Virtual1 Width 958x995=950
+Virtual1 Window-Maximized 1279x799=true
+Virtual1 Window-Maximized 1280x720=true
+Virtual1 Window-Maximized 1280x800=true
+Virtual1 Window-Maximized 958x995=true
+Virtual1 XPosition 1279x799=0
+Virtual1 XPosition 1280x720=222
+Virtual1 XPosition 1280x800=457
+Virtual1 XPosition 1748x995=4
+Virtual1 XPosition 1920x1005=4
+Virtual1 XPosition 1920x1080=422
+Virtual1 XPosition 1920x1200=331
+Virtual1 XPosition 800x600=0
+Virtual1 XPosition 958x995=4
+Virtual1 YPosition 1279x799=49
+Virtual1 YPosition 1280x720=132
+Virtual1 YPosition 1280x800=79
+Virtual1 YPosition 1748x995=55
+Virtual1 YPosition 1920x1005=60
+Virtual1 YPosition 1920x1080=125
+Virtual1 YPosition 1920x1200=134
+Virtual1 YPosition 800x600=72
+Virtual1 YPosition 958x995=55
+
+[UiSettings]
+ColorScheme=Default
