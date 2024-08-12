@@ -1,0 +1,6 @@
+user:student
+password:dune
+sudo password:dune
+
+user:root
+password:dune
