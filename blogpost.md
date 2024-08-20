@@ -106,7 +106,7 @@ Ready to try Dune OS? Here’s how you can get started:
 The development of Dune OS wouldn’t have been possible without the contributions of our talented team. A big thank you to everyone who has dedicated their time and skills to this project:
 
 - [kara mohamed ](https://www.linkedin.com/in/kara-mohamed-mourtadha/) : Lead Developer - Responsible for overall development, system customization, and package management.
-- [Azouaou Faiçal](https://www.linkedin.com/in/azouaou-fai%C3%A7al-bb47b010/) :: Project Mentor - Provided invaluable guidance and support throughout the development process. Their expertise and advice helped shape the direction of Dune OS and ensured its success.
+- [Pr.Azouaou Faiçal](https://www.linkedin.com/in/azouaou-fai%C3%A7al-bb47b010/) :: Project Mentor - Provided invaluable guidance and support throughout the development process. Their expertise and advice helped shape the direction of Dune OS and ensured its success.
 - [Mohamed Sahrraoui HAMDI ](https://www.linkedin.com/in/mohamed-sahrraoui-hamdi-7638242aa/) : Testing and QA - Performed testing across various hardware setups and ensured stability.
 
 We invite anyone interested in contributing to the project to join us. Whether it’s coding, testing, or simply offering feedback, we appreciate your involvement!
