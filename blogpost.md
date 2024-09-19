@@ -95,7 +95,7 @@ Stay tuned for updates and new releases as we continue to improve Dune OS based 
 
 Ready to try Dune OS? Here’s how you can get started:
 
-1. **Download the ISO**: You can get the latest version of Dune OS from our school server [or insert link].
+1. **Download the ISO**: You can get the latest version of Dune OS from here [Dune os iso](https://drive.google.com/drive/folders/1_zsP1eXjTQZbHpIxg45RFBib5f6w9OcG?usp=sharing) .
 2. **Install**: Follow the instructions on the welcome screen to complete the installation.
 3. **Learn and Explore**: Check out our getting started guides, tutorials, and other resources to help you get the most out of Dune OS.
 
