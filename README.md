@@ -24,16 +24,17 @@ Dune OS is a Debian-based Linux distribution optimized for educational purposes,
 ## Installation Instructions
 
 1. **Download ISO**:
-**Currently, only the OEM entry in the boot menu is functional. The remaining entries will be implemented and corrected in future updates**
+   
+**Currently, only the OEM entry in the boot menu is functional for installing the os. The remaining entries will be implemented and corrected in future updates**
    - Obtain the latest ISO from (here)[https://drive.google.com/drive/folders/1_zsP1eXjTQZbHpIxg45RFBib5f6w9OcG]
-2. **Create Bootable USB**:
+3. **Create Bootable USB**:
    
    - Or use tools like Rufus, Etcher, etc.
 
-3. **Boot from USB**:
+4. **Boot from USB**:
    - Restart your system and select the boot device (USB) from the BIOS/UEFI menu.
 
-4. **Install Dune OS**:
+5. **Install Dune OS**:
    - Follow the on-screen instructions in the Ubiquity installer:
    - install the gpu drivers
      - Select partitioning scheme (manual or guided).
