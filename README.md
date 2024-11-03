@@ -23,10 +23,13 @@ Dune OS is a Debian-based Linux distribution optimized for educational purposes,
 
 ## Installation Instructions
 
-***Importan***
-**Currently, only the OEM entry in the boot menu is functional for installing the os. The remaining entries will be implemented and corrected in future updates**
 
-**You should watch the guide !!**
+⚠️ **Important Notice:** 
+
+🚨 **Currently, only the OEM entry in the boot menu is functional for installing the OS. The remaining entries will be added and corrected in future updates. Thank you for your patience!** 
+
+**You should watch the guides !!**
+
 
 1. **Download ISO**:
    
