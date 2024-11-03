@@ -24,6 +24,7 @@ Dune OS is a Debian-based Linux distribution optimized for educational purposes,
 ## Installation Instructions
 
 1. **Download ISO**:
+**Currently, only the OEM entry in the boot menu is functional. The remaining entries will be implemented and corrected in future updates**
    - Obtain the latest ISO from (here)[https://drive.google.com/drive/folders/1_zsP1eXjTQZbHpIxg45RFBib5f6w9OcG]
 2. **Create Bootable USB**:
    
@@ -39,7 +40,7 @@ Dune OS is a Debian-based Linux distribution optimized for educational purposes,
      - Configure user, time zone, and keyboard layout.
      - Begin installation.
 
-5. **Post-Installation**:
+6. **Post-Installation**:
    - After installation, the system will reboot. Log in using your created credentials. ( dune : dune )
   
 
