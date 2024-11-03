@@ -8,7 +8,7 @@ Dune OS is a Debian-based Linux distribution optimized for educational purposes,
 
 - **Processor**: 64-bit architecture (x86_64)
 - **RAM**: Minimum 2 GB (4 GB recommended)
-- **Disk Space**: 20 GB minimum
+- **Disk Space**: 35 GB minimum
 - **Graphics**: GPU with OpenGL 2.0+ support
 
 ## Features
